@@ -12,7 +12,7 @@ title                    : "Anshul Chaudhary"
 title_separator          : "-"
 name                     : &name "Anshul Chaudhary"
 description              : &description "personal description"
-url                      : https://chaudharyanshul.github.io/portfolio-da # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chaudharyanshul.github.io/portfolio-da  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChaudharyAnshul/portfolio-da"
 
