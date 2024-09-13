@@ -14,9 +14,9 @@ redirect_from:
 -	Enhanced model performance by implementing k-fold cross-validation for robustness and applying resampling techniques to address class imbalance in the dataset
 
 
-### Stock Close Price Prediction
-**Technologies:** React, Flask, MongoDB, Machine Learning, Hyperparameter Tuning, Random Forest Classification    
-**GitHub Repository:** [Link to Repository](https://github.com/ChaudharyAnshul/StockClosePricePrediction)   
+### PharmaCutieCal: Drug Side Effect Analysis 
+**Technologies:** React, Flask, MongoDB, Machine Learning, Hyperparameter Tuning, Random Forest Classification     
+**GitHub Repository:** [Link to Repository](https://github.com/TFC-Civic-Tech-Hackathon/drug-effects-predictor)   
 -	Spearheaded the development of a React-based application with a user-friendly UI for capturing medical history and accessing records, integrating a drug input feature and utilizing MongoDB for data storage
 -	Implemented a Machine Learning model trained on a dataset of 250k drugs and their side effects to predict potential side effects from user data, developing a Flask-based API for seamless application integration
 
