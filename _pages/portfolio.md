@@ -7,6 +7,20 @@ redirect_from:
   - /portfolio.html
 ---
 
+### Sentimental analysis Amazon review data 
+**Technologies:** Parallel Deep Learning, Python, LSTM, PyTorch, Dask, GPU cluster, Linux     
+**GitHub Repository:** [Link to Repository](https://github.com/ChaudharyAnshul/SentimentalAnalysis_Parallel_DL)    
+-	Implemented scalable sentiment analysis pipeline using PyTorch and distributed computing (Distributed Data Parallel and Model Parallelism) to achieve 95.17% accuracy
+-	Optimized preprocessing and training workflows by leveraging Dask for distributed data processing and mixed precision training, reducing training time by over 50% on multi-CPU and GPU setups
+
+
+### Transformer Chatbot 
+**Technologies:** Deep Learning, Python, Transformers, PyTorch, GPU cluster     
+**GitHub Repository:** [Link to Repository](https://github.com/ChaudharyAnshul/transformer_chatbot)    
+-	Built a Transformer-based chatbot model in PyTorch, leveraging tokenization, positional encoding, and self-attention
+-	Achieved 99% training accuracy over 300 epochs by optimizing model with cross-entropy loss and Adam optimizer
+
+
 ### Text Classification using BERT (Financial Data) 
 **Technologies:** LLM models, HuggingFace BERT, Resampling, PyTorch, Scikit-Learn, Machine Learning     
 **GitHub Repository:** [Link to Repository](https://github.com/ChaudharyAnshul/TextClassification)    
