@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Data Analysis/Science Portfolio"
+title: "Machine Learning & Deep Learning Portfolio"
 author_profile: true
 redirect_from: 
   - /portfolio/
