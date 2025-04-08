@@ -15,7 +15,7 @@ redirect_from:
 
 **Northeastern University** <br />
 **Master of Science**, Software Engineering Systems  
-_May 2025 (Expected)_
+_May 2025_
 
 **University of Mumbai** <br />
 **Bachelors of Engineering**, Information Technology  
